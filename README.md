@@ -1,8 +1,8 @@
 # curveFittings_and_correlation_month
 This repository contains curve fitting implementation and correlation analysis of data
 
-The analysis of each implemented algorithm is in a folder. Each folder contains
-scripts to analyze the data.
+The analysis of each implemented algorithm is in its folder. Each folder contains
+the following programs to analyze the data.
 
 
 input_editor.py
