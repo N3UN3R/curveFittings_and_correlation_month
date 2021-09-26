@@ -31,7 +31,7 @@ plot_producer_reductions.py
 - Program that plots the used reductions and the number of producer households
 
 
-#just in folder network_simplex
+# just in folder network_simplex
 
 einsparung2019.py
 -	Program that calculates the amount of money that could have been saved
